@@ -4,7 +4,6 @@ copyright: BY-NC-SA
 date: 2024-02-07 23:50:20
 tags:
 categories: 碎碎念
-index_img:
 ---
 
 ## 寒暄

@@ -13,6 +13,10 @@ timezone: ""
 language: zh-CN
 theme: fluid
 
+marked:
+  prependRoot: true
+  postAsset: true
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://p90.icu
@@ -69,6 +73,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  "比赛资讯": race
+  "更新日志": update
+  "碎碎念": tattle
+
 tag_map:
 
 # Metadata elements
