@@ -1,9 +1,10 @@
 ---
-title: "接下来的安排"
+title: "你好，这里是P90.ICU"
 copyright: BY-NC-SA
 date: 2024-02-07 23:50:20
 tags:
 categories: 碎碎念
+index_img: /2024/02/this-is-p90-icu/banner.png
 ---
 
 ## 寒暄
