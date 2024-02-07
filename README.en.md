@@ -6,7 +6,7 @@ Welcome To this repository.
 
 You're FREE to clone this repository and REDEPLOY it.
 
-But according to [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), you MUST give a visible link or attribution to The Source Website (For this repository is **P90.ICU**(**https://p90.icu**))
+But according to [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), you MUST give a visible link or attribution to The Source Website (For this repository is **P90.ICU** ([**https://p90.icu**](https://p90.icu))
 
 ## Notice
 
@@ -16,4 +16,4 @@ But according to [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa
 
 ## Open Source
 
-The site theme uses the [Fluid](https://github.com/fluid-dev/hexo-theme-fluid), which is open source under the GPL 3.0 license. During use, we made some changes to some part of the code, you can visit [/themes/fluid/](/themes/fluid/) to see the revised version, which also complies with the GPL 3.0 license.
+The site theme uses the [Fluid](https://github.com/fluid-dev/hexo-theme-fluid), which is open source under the GPL 3.0 license. During use, we made some changes to some part of the code, you can visit [`/themes/fluid/`](/themes/fluid/) to see the revised version, which also complies with the GPL 3.0 license.
