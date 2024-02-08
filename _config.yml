@@ -8,7 +8,7 @@ subtitle: "CS2/CSGO/CS/反恐精英资讯站"
 description: "P90.ICU,重症室,P90重症室,P90,ICU,CS,Rushb,RUSHB中文网,中文网,反恐精英,全球攻势,CSGO,CSGO官网,Major,IEM,Blast,Blast.tv,PGL,ESL,完美世界,CS2,起源2,CSGO2,CS新闻,新闻,CS资讯,资讯"
 keywords:
 author: P90.ICU
-timezone: ""
+timezone: "Asia/Shanghai"
 
 language: zh-CN
 theme: fluid
@@ -76,6 +76,7 @@ category_map:
   "比赛资讯": race
   "更新日志": update
   "碎碎念": tattle
+  "选手设置": pro-player-settings
 
 tag_map:
 
