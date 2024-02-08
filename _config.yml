@@ -20,7 +20,7 @@ marked:
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://p90.icu
-permalink: :year/:month/:title/
+permalink: :year/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -71,12 +71,14 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: tattle
 category_map:
-  "比赛资讯": race
+  "比赛资讯": events
   "更新日志": update
   "碎碎念": tattle
   "选手设置": pro-player-settings
+  "经典攻势": csco
+  "创意工坊": workshop
 
 tag_map:
 

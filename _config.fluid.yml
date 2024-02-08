@@ -341,10 +341,16 @@ navbar:
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
-    - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - {
         key: "category",
-        link: "/categories/",
+        submenu:
+          [
+            { key: "更新日志", link: "/categories/update/" },
+            { key: "比赛资讯", link: "/categories/events/" },
+            { key: "选手设置", link: "/categories/pro-player-settings/" },
+            { key: "创意工坊", link: "/categories/workshop/" },
+            { key: "经典攻势", link: "/categories/csco/" },
+          ],
         icon: "iconfont icon-category-fill",
       }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
@@ -1015,7 +1021,7 @@ static_prefix:
 
   jquery: https://lib.baomitu.com/jquery/3.6.4/
 
-  bootstrap: https://lib.baomitu.com/twitter-bootstrap/4.6.1/
+  bootstrap: https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.2/
 
   prismjs: https://lib.baomitu.com/prism/1.29.0/
 

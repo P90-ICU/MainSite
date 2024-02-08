@@ -4,7 +4,7 @@ copyright: BY-NC-SA
 date: 2024-02-08 03:10:08
 tags:
 categories: 比赛资讯
-index_img: /2024/02/katowice-2024-playoff-on-the-way/kato-cup.jpg
+index_img: /2024/katowice-2024-playoff-on-the-way/kato-cup.jpg
 ---
 
 > 封面图来自 HLTV
