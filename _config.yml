@@ -109,7 +109,9 @@ ignore:
 
 # Extensions
 
-plugins: hexo-generator-feed
+plugins:
+  - hexo-generator-feed
+  - hexo-neat
 
 feed:
   type:
@@ -121,3 +123,26 @@ feed:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ""
+
+sitemap:
+  path: sitemap.xml
+
+baidusitemap:
+  path: baidusitemap.xml
+
+neat_enable: true
+neat_html:
+  enable: true
+  exclude:
+neat_css:
+  enable: true
+  exclude:
+    - "**/*.min.css"
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - "**/*.min.js"
+    - "**/index.js"
