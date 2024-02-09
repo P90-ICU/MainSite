@@ -1,0 +1,9 @@
+.player_icon{
+    text-align: center;
+}
+
+.player_icon img {
+    background-color:#f2f2f2;
+    border-radius: 100%;
+    width: 200px;
+}

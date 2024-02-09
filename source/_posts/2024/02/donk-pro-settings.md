@@ -7,7 +7,7 @@ categories: 选手设置
 index_img: /2024/donk-pro-settings/donk.jpg
 ---
 
-<div style="text-align: center;" class="mb-4"><img src="/2024/donk-pro-settings/player_icon.png"  class="mb-2" style="background-color:#f2f2f2; border-radius: 100%;" width="200"></br><strong>Danil “donk” Kryshkovets</strong></div>
+<div class="player_icon mb-4"><img src="/2024/donk-pro-settings/player_icon.png" class="mb-2" ></br><strong>Danil “donk” Kryshkovets</strong></div>
 
 以下是 Team Spirit CS2 选手 **Danil “donk” Kryshkovets** 的画面设置和外设
 
