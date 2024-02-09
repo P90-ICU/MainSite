@@ -112,6 +112,7 @@ ignore:
 plugins:
   - hexo-generator-feed
   - hexo-neat
+  - cs-player-icon
 
 feed:
   type:

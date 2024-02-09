@@ -1,5 +1,5 @@
 ---
-title: 经典攻势（CSCO）2022 年 12 月开发日志。
+title: 经典攻势（CSCO）2022 年 12 月开发日志
 copyright: BY-NC-SA
 date: 2023-01-01 12:11:13
 tags:

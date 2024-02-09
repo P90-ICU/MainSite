@@ -7,75 +7,60 @@ categories: 选手设置
 index_img: /2024/donk-pro-settings/donk.jpg
 ---
 
-<div class="player_icon mb-4"><img src="/2024/donk-pro-settings/player_icon.png" class="mb-2" ></br><strong>Danil “donk” Kryshkovets</strong></div>
+{%player_icon "/2024/donk-pro-settings/player_icon.png" "Danil “donk” Kryshkovets" %}
 
 以下是 Team Spirit CS2 选手 **Danil “donk” Kryshkovets** 的画面设置和外设
 
 ## 硬件外设
 
-- 鼠标：Logitech G Pro X Superlight Magenta
+{% player_table
 
-- 键盘：Logitech G Pro X Keyboard
+鼠标:"Logitech G Pro X Superlight Magenta"
 
-- 显示器：ZOWIE GEAR XL2546K
+键盘:"Logitech G Pro X Keyboard"
 
-- 耳机：HyperX Cloud II
+显示器:"ZOWIE GEAR XL2546K"
 
-- 鼠标垫：SteelSeries QcK+
+耳机:"HyperX Cloud II"
+
+鼠标垫:"SteelSeries QcK+"
+
+%}
 
 ## 鼠标设置
 
-- DPI: 800
-- 灵敏度: 1.25
-- eDPI: 1000
-- 开镜灵敏度: 1
-- 回报率: 1000 Hz
-- Windows 灵敏度: 6
+{% player_mouse DPI=800 Sensitivity=1.25 Zoom=1 Hz=1000 winSen=6 %}
 
 ## 视频设置
 
 ### 显示器
 
-- 分辨率: 1280x960
-- 比例: 4:3
-- 缩放类型: 拉伸
-- 亮度: 109%
-- 显示模式: 全屏
-- 数字震动: 50%
+{% player_monitor resolution=1280x960 ratio=4:3 scaling=拉伸 brightness=109% display=fullscreen DVC=50% %}
 
 ### 游戏内设置
 
-- 提高角色对比度: 启用
-- 等待垂直同步: 禁用
-- 多重采样抗锯齿模式: 8x MSAA
-- 全局阴影质量: 高
-- 模型/纹理细节: 低
-- 贴图过滤模式: 三线性
-- 材质细节: 低
-- 粒子细节: 低
-- 环境光遮蔽: 禁用
-- 高动态范围: 质量
-- FidelityFX 超级分辨率: 禁用（最高质量）
-- NVIDIA Reflex 低延迟: 禁用
+{% player_video player_contrast=启用 vertical_sync=禁用 MAAM="8x MSAA" shadow=高 model_texture=低 texture_filter=三线性 shader=低 particle=低 ambient_occlusion=禁用 HDR=质量 FFXSR=禁用（最高质量） NRLL=禁用%}
 
 ## 鼠标准心
 
-- 准星类型: 经典静态
-- 跟随弹道: 否
-- 中心点: 否
-- 长度: 1
-- 宽度: 0
-- 间距: -3.2
-- 轮廓: 关
-- 颜色: 绿
-- 红色: 255
-- 绿色: 255
-- 蓝色: 255
-- 透明度: 开
-- 透明值: 255
-- T 型准星: 否
-- 启用准行间距设置: 否
-- 开镜宽度: 0
+{% player_table
+准星类型:经典静态
+跟随弹道:否
+中心点:否
+长度:1
+宽度:0
+间距:-3.2
+轮廓:关
+颜色:绿
+红色:255
+绿色:255
+蓝色:255
+透明度:开
+透明值:255
+"T 型准星":否
+启用准行间距设置:否
+开镜宽度:0
+%}
 
 准星代码: `CSGO-HRUtd-7NxSn-DxZ6w-M4OPW-wjA6Q`
 
@@ -100,11 +85,13 @@ cl_crosshair_sniper_width "0";
 
 ## 持枪视角
 
-- FOV: 68
-- X 轴: 2.5
-- Y 轴: 0
-- Z 轴: -1.5
-- 预设坐标: 3
+{% player_table
+FOV:68
+"X 轴":2.5
+"Y 轴":0
+"Z 轴":-1.5
+预设坐标:3
+%}
 
 ```bash
 viewmodel_fov 68;
@@ -116,16 +103,20 @@ viewmodel_presetpos 3;
 
 ## Hud
 
-- HUD 尺寸: 0.9
-- HUD 颜色: 粉
+{% player_table
+"HUD尺寸":0.9
+"HUD颜色":粉
+%}
 
 ## 雷达
 
-- 玩家居中:开
-- 雷达旋转:Yes
-- 随计分板切换形状:Yes
-- 雷达尺寸:1
-- 地图尺寸:0.7
+{% player_table
+玩家居中:开
+雷达旋转:Yes
+随计分板切换形状:Yes
+雷达尺寸:1
+地图尺寸:0.7
+%}
 
 ```bash
 cl_radar_always_centered "1"

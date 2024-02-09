@@ -7,7 +7,7 @@ categories: 经典攻势
 index_img: /2022/csco-devlog-2022-11/mirage_3.jpg
 ---
 
-经典攻势（CSCO）2022 年 11 月开发日志。
+经典攻势（CSCO）2022 年 11 月开发日志
 
 V 社依旧没有给予许可，开发组决定尝试不同的解决方案
 
