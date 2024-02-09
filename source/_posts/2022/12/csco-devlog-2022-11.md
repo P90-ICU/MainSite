@@ -25,7 +25,7 @@ V 社依旧没有给予许可，开发组决定尝试不同的解决方案
 
 添加了角色选择菜单。购买菜单也经过修改，以进一步类似于早先 CS:GO 版本。
 
-相关视频: `2022_12_UI.mp4` （视频地址见文末）
+相关视频: [2022_12_UI.mp4](https://storage.p90.icu/CSCO/2022_12_UI.mp4)
 
 ## Mirage
 
@@ -43,12 +43,10 @@ SG-552 现已可用。**zero_00(@zero_0051)**尝试在上面使用了 **Will "ce
 
 工作正在进行中，杂志需要调整，需要添加动画子弹。
 
-相关视频: `2022_12_UI.mp4` （视频地址见文末）
+相关视频: [2022_12_SG552.mp4](https://storage.p90.icu/CSCO/2022_12_SG552.mp4)
 
 ## 结尾
 
 CSCO 感谢各位玩家和赞助者的关注与支持
 
 https://classic-offensive.net/
-
-视频归档: https://pan.baidu.com/s/1Fb3CBk5kfzbeJEwOCM8STw?pwd=csco 提取码：csco

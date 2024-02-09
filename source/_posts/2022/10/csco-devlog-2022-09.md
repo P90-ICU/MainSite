@@ -22,12 +22,10 @@ CSGO 第三方游戏经典攻势（CSCO）仍在开发中，9 月的开发日志
 
 **Zool(@Zool_Smith)** 已为 XM1014 制作了动画，但仍然使用 CS:GO XM1014 模型。
 
-相关视频: `2022_10_XM1014.mp4` （视频地址见文末）
+相关视频: [2022_10_XM1014.mp4](https://storage.p90.icu/CSCO/2022_10_XM1014.mp4)
 
 ## 结尾
 
 CSCO 感谢各位玩家和赞助者的关注与支持
 
 https://classic-offensive.net/
-
-视频归档: https://pan.baidu.com/s/1Fb3CBk5kfzbeJEwOCM8STw?pwd=csco 提取码：csco

@@ -1498,11 +1498,6 @@ hexo-cli@^4.3.0:
     resolve "^1.20.0"
     tildify "^2.0.0"
 
-hexo-cs-player-info@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/hexo-cs-player-info/-/hexo-cs-player-info-1.0.0.tgz#392022b2d0aeb40f5cd47dc4151a2d457e4bc2e8"
-  integrity sha512-I3cE0h+YINCmXUewEOhynD3zK5H7UqEsEQSGjtyd/NDkvWKDeKs0hO9gp0Itfp0gVLjaDxz/Jdw3p4VHAVG9/g==
-
 hexo-front-matter@^0.2.3:
   version "0.2.3"
   resolved "https://registry.npmjs.org/hexo-front-matter/-/hexo-front-matter-0.2.3.tgz"
@@ -1632,6 +1627,11 @@ hexo-neat@^1.0.9:
     object-assign "^4.1.1"
     stream-to-array "^2.3.0"
     uglify-js "~3.10.0"
+
+hexo-p90-icu-component@^1.0.1:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/hexo-p90-icu-component/-/hexo-p90-icu-component-1.0.2.tgz#975d7a2c0e537890313a7b1cdece56b2baf9e7df"
+  integrity sha512-HNqy3L3tivpUgIPXDkgu8TNWZk8xs5Dj0OY4ms9yOlB8IUMOpaXlVsL/vN4TnpPodnnesy1SyZgEEU7GkgxWgg==
 
 hexo-pagination@3.0.0:
   version "3.0.0"

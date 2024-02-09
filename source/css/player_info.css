@@ -179,5 +179,6 @@ table.settings > tbody tr td {
 .player_icon img {
   background-color: #f2f2f2;
   border-radius: 100%;
+  padding: 6px 3px 0 3px;
   width: 200px;
 }

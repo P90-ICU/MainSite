@@ -35,11 +35,31 @@ index_img: /2024/donk-pro-settings/donk.jpg
 
 ### 显示器
 
-{% player_monitor resolution=1280x960 ratio=4:3 scaling=拉伸 brightness=109% display=fullscreen DVC=50% %}
+{% player_table
+分辨率:1280x960
+显示比例:4:03
+缩放方式:拉伸
+亮度:109%
+显示模式:全屏
+数字震动:50%
+%}
 
 ### 游戏内设置
 
-{% player_video player_contrast=启用 vertical_sync=禁用 MAAM="8x MSAA" shadow=高 model_texture=低 texture_filter=三线性 shader=低 particle=低 ambient_occlusion=禁用 HDR=质量 FFXSR=禁用（最高质量） NRLL=禁用%}
+{% player_table
+提高角色对比度:启用
+等待垂直同步:禁用
+多重采样抗锯齿模式:"8x MSAA"
+全局阴影质量:高
+模型/贴图细节:低
+贴图过滤模式:三线性
+光影细节:低
+粒子细节:低
+环境光遮蔽:禁用
+高动态范围:质量
+"FidelityFX 超级分辨率":禁用（最高质量）
+"NVIDIA Reflex":禁用
+%}
 
 ## 鼠标准心
 

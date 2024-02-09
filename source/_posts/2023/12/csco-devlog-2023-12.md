@@ -29,12 +29,10 @@ CSCO 已获得许可使用黑山的资源，以赋予其更真实的《半条命
 
 感谢**AlbanyKnight(@AlbanyKnight)**移植的 CS:GO 僵尸模型
 
-相关视频: `2023_12_Zombie.mp4`
+相关视频: [2023_12_Zombie.mp4](http://storage.p90.icu/CSCO/2023_12_Zombie.mp4)
 
 ## 结尾
 
 CSCO 感谢各位玩家和赞助者的关注与支持
 
 https://classic-offensive.net/
-
-视频归档: https://pan.baidu.com/s/1Fb3CBk5kfzbeJEwOCM8STw?pwd=csco 提取码：csco

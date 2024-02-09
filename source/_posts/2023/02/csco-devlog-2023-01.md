@@ -1,5 +1,5 @@
 ---
-title: 经典攻势（CSCO）2023 年 01 月开发日志
+title: 经典攻势（CSCO）2023年01月开发日志
 copyright: BY-NC-SA
 date: 2023-02-01 14:41:23
 tags:
@@ -23,7 +23,7 @@ Mirage 进入可玩状态。**dum(@dmu222)** 已经完成了地图的美术制�
 
 > 这张地图因其标志性的坠落尖叫而闻名，没有这个元素，它就无法成为 CS 的经典之作。
 
-相关视频: `2023_02_Vertigo.mp4` （视频地址见文末）
+相关视频: [2023_02_Vertigo.mp4](http://storage.p90.icu/CSCO/2023_02_Vertigo.mp4)
 
 ## 补丁
 
@@ -38,5 +38,3 @@ Mirage 进入可玩状态。**dum(@dmu222)** 已经完成了地图的美术制�
 CSCO 感谢各位玩家和赞助者的关注与支持，祝大家新年快乐
 
 https://classic-offensive.net/
-
-视频归档: https://pan.baidu.com/s/1Fb3CBk5kfzbeJEwOCM8STw?pwd=csco 提取码：csco
