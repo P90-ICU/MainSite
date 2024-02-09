@@ -2,8 +2,7 @@
 title: 【CS Rumos】2月7日-2月9日 | 贴纸缩放和手套皮肤
 copyright: BY-NC-SA
 date: 2024-02-09 11:32:14
-tags:
-categories:
+categories: 新闻资讯
 index_img: /2024/cs-rumors-2024-2-7/tuscan_csgo.jpg
 ---
 

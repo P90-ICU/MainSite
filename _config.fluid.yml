@@ -345,6 +345,7 @@ navbar:
         key: "category",
         submenu:
           [
+            { key: "新闻资讯", link: "/categories/update/" },
             { key: "更新日志", link: "/categories/update/" },
             { key: "比赛资讯", link: "/categories/events/" },
             { key: "选手设置", link: "/categories/pro-player-settings/" },
