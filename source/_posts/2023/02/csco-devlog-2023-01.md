@@ -35,6 +35,6 @@ Mirage 进入可玩状态。**dum(@dmu222)** 已经完成了地图的美术制�
 
 ## 结尾
 
-CSCO 感谢各位玩家和赞助者的关注与支持，祝大家新年快乐
+CSCO 感谢各位玩家和赞助者的关注与支持
 
 https://classic-offensive.net/

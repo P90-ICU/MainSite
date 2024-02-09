@@ -31,6 +31,6 @@ CS:S 中的破片手榴弹仅在 GunGame 中用作更强大的主要武器替代
 
 ## 结尾
 
-CSCO 感谢各位玩家和赞助者的关注与支持，祝大家新年快乐
+CSCO 感谢各位玩家和赞助者的关注与支持
 
 https://classic-offensive.net/

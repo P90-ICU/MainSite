@@ -3,7 +3,7 @@ title: 2024年02月07日更新日志 「AMD显卡修复」
 copyright: BY-NC-SA
 date: 2024-02-08 08:59:10
 tags:
-categories:
+categories: 更新日志
 index_img: /2024/cs2-update-2024-2-7/banner.webp
 ---
 

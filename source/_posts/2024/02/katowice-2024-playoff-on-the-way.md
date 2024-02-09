@@ -3,6 +3,9 @@ title: IEM卡托维兹2024淘汰赛即将开打
 copyright: BY-NC-SA
 date: 2024-02-08 03:10:08
 tags:
+  - IEM卡托维兹2024
+  - IEM
+  - 卡托维兹
 categories: 比赛资讯
 index_img: /2024/katowice-2024-playoff-on-the-way/kato-cup.jpg
 ---

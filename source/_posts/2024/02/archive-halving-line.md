@@ -3,7 +3,7 @@ title: 归档分割线
 copyright: BY-NC-SA
 date: 2024-02-07 00:00:00
 tags:
-categories: dev
+categories: 站点公告
 index_img: /2024/archive-halving-line/banner.webp
 ---
 

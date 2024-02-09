@@ -80,8 +80,12 @@ category_map:
   "经典攻势": csco
   "创意工坊": workshop
   "新闻资讯": cs-news
+  "站点公告": announces
 
 tag_map:
+  "IEM卡托维兹2024": IEM-Katowice-2024
+  "IEM": iem
+  "卡托维兹": katowice
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
