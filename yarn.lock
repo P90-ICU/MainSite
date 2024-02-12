@@ -1628,10 +1628,10 @@ hexo-neat@^1.0.9:
     stream-to-array "^2.3.0"
     uglify-js "~3.10.0"
 
-hexo-p90-icu-component@^1.0.1:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/hexo-p90-icu-component/-/hexo-p90-icu-component-1.0.2.tgz#975d7a2c0e537890313a7b1cdece56b2baf9e7df"
-  integrity sha512-HNqy3L3tivpUgIPXDkgu8TNWZk8xs5Dj0OY4ms9yOlB8IUMOpaXlVsL/vN4TnpPodnnesy1SyZgEEU7GkgxWgg==
+hexo-p90-icu-component@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/hexo-p90-icu-component/-/hexo-p90-icu-component-1.0.3.tgz#c86f3052d95b0d2776a9b2ff06fc710a222b1ad5"
+  integrity sha512-usW8/tpUBZ4aVsDMzN+Ok+eKfxa03IbYH3wLQPAC2/aJaX9UNOMBgIy941LKNBtlZBVLV8QobwfgjDe2n4s63A==
 
 hexo-pagination@3.0.0:
   version "3.0.0"
