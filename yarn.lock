@@ -1629,9 +1629,9 @@ hexo-neat@^1.0.9:
     uglify-js "~3.10.0"
 
 hexo-p90-icu-component@^1.0.1:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/hexo-p90-icu-component/-/hexo-p90-icu-component-1.0.2.tgz#975d7a2c0e537890313a7b1cdece56b2baf9e7df"
-  integrity sha512-HNqy3L3tivpUgIPXDkgu8TNWZk8xs5Dj0OY4ms9yOlB8IUMOpaXlVsL/vN4TnpPodnnesy1SyZgEEU7GkgxWgg==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/hexo-p90-icu-component/-/hexo-p90-icu-component-1.0.4.tgz#9aaeecb58a739bdbd50d3168d9c3fecd0106d9b9"
+  integrity sha512-dYOK2oSapu5t2JrcHvXWYWxg6pi7Wkxs3x0Oo06papjsAVJ44iCWvN423xA7OdTQDSmPxEsmkts/5cfC2IPGWg==
 
 hexo-pagination@3.0.0:
   version "3.0.0"
