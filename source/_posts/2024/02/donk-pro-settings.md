@@ -7,7 +7,7 @@ categories: 选手设置
 index_img: /2024/donk-pro-settings/donk.jpg
 ---
 
-{%player_icon "/2024/donk-pro-settings/player_icon.png" "Danil “donk” Kryshkovets" %}
+{%player_icon "/2024/donk-pro-settings/player_icon.webp" "Danil “donk” Kryshkovets" %}
 
 以下是 Team Spirit CS2 选手 **Danil “donk” Kryshkovets** 的画面设置和外设
 
@@ -37,7 +37,7 @@ index_img: /2024/donk-pro-settings/donk.jpg
 
 {% player_table
 分辨率:1280x960
-显示比例:4:03
+显示比例:4:3
 缩放方式:拉伸
 亮度:109%
 显示模式:全屏
@@ -132,8 +132,8 @@ viewmodel_presetpos 3;
 
 {% player_table
 玩家居中:开
-雷达旋转:Yes
-随计分板切换形状:Yes
+雷达旋转:开
+随计分板切换形状:开
 雷达尺寸:1
 地图尺寸:0.7
 %}
