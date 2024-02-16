@@ -3,7 +3,7 @@ title: ZywOo 鼠标键盘外设、视频设置、准心CFG参数
 copyright: BY-NC-SA
 date: 2024-02-15 15:46:06
 tags:
-categories:
+categories: 选手设置
 index_img: /2024/zywoo-pro-settings/ZywOo.jpg
 ---
 
