@@ -22,7 +22,7 @@ index_img: /2024/csco-devlog-2024-1/banner.jpg
 
 **ESCalation(@ESCalationOffic)** 制作的地图即将完成，并发布了一段视频展示。
 
-开发者再次感谢了 **Black Mesa(@BlackMesaDevs)**的帮助，使得 Nuke 地图完美复刻了原作的氛围！
+开发者再次感谢了 **Black Mesa(@BlackMesaDevs)** 的帮助，使得 Nuke 地图完美复刻了原作的氛围！
 
 相关视频: [2024_01_Nuke.mp4](https://storage.p90.icu/CSCO/2024_01_Nuke.mp4)
 
