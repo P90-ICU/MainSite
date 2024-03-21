@@ -1,5 +1,5 @@
 ---
-title: "2024 哥本哈根Major"
+title: "2024 哥本哈根 Major"
 copyright: BY-NC-SA
 date: 2024-03-14 13:45:39
 tags:
